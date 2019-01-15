@@ -1,6 +1,17 @@
 ###  Natours landing
 
 ---
+##### To see it 
+
+[Link](https://stan0men.github.io/Natours/index.html)
+
+---
+##### To try it localy
+1.
+2.
+3.
+4.
+
 
 ##### Technologies
 1. HTML
@@ -10,4 +21,4 @@
 
 ---
 
-[Here you can see it](https://stan0men.github.io/Natours/index.html)
+
