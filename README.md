@@ -7,10 +7,9 @@
 
 ---
 ##### To try it localy
-1.
-2.
-3.
-4.
+1.Clone or download this repo
+2.npm i
+3.npm run start
 
 
 ##### Technologies
