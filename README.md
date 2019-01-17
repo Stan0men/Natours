@@ -11,6 +11,7 @@
 2. ***npm i***
 3. ***npm run start***
 
+---
 
 ##### Technologies
 1. HTML
